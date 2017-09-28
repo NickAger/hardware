@@ -1,5 +1,6 @@
 # hardware
 * Hacker news [discussion](https://news.ycombinator.com/item?id=12079824) about circuit layout tools eg Eagle vs KiCAD vs Altium
+* Charbax [interview](https://www.youtube.com/watch?v=ZSt7ntanj2I) with guy designing circuit boards, who converts between Altium and Eagle into KiCAD - he seems to prefer KiCAD.
 * [Intro to modern hardware prototyping](http://obogason.com/modern_hardware_prototyping/)
 
 ## Oscilloscopes
