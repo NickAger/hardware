@@ -2,6 +2,7 @@
 * Hacker news [discussion](https://news.ycombinator.com/item?id=12079824) about circuit layout tools eg Eagle vs KiCAD vs Altium
 * Charbax [interview](https://www.youtube.com/watch?v=ZSt7ntanj2I) with guy designing circuit boards, who converts between Altium and Eagle into KiCAD - he seems to prefer KiCAD.
 * [Intro to modern hardware prototyping](http://obogason.com/modern_hardware_prototyping/)
+* [The Amazing $1 Microcontroller](https://jaycarlson.net/microcontrollers/)
 
 ## Oscilloscopes
 * [Digilent Analog Discovery 2 is a USB oscilloscope](http://store.digilentinc.com/analog-discovery-2-100msps-usb-oscilloscope-logic-analyzer-and-variable-power-supply/) allows users to measure, visualize, generate, record, and control mixed-signal circuits of all kinds.
