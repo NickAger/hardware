@@ -9,4 +9,6 @@
 * [Saleae](https://www.saleae.com) USB logic analyzer is faster (500msps vs 100) however the Digilent has a lot more features eg +- 25V
 * [A novel chipset and architecture for portable oscilloscopes](http://www.eedesignnewseurope.com/news/novel-chipset-and-architecture-portable-oscilloscopes-0) - "Rigol Technologies has announced its Phoenix Oscilloscope chipset and the Ultravision II oscilloscope architecture to underpin its next generation of digital oscilloscopes."
 
+## Learning
 
+* [Concise Electronics for Geeks (2010)](https://news.ycombinator.com/item?id=15703472)
